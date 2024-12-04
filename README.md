@@ -1,1 +1,1 @@
-# Metodo-de-Newton
+# Metodo de Newton
